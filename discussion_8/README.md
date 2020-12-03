@@ -48,7 +48,7 @@ Features of lambda function:
 - **Anonymous**: lambda functions do not have to have a name.
 - **First-class object**: lambda functions can be assigned to a variable or passed as an argument (like normal functions).
 
-**Map&Recuce**
+**Map&Reduce**
 
 Map and reduce are two functions which take another function and a list as parameters. `map(f, l)` and `reduce(f, l, base)`.
 
